@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="PonteGames.Api/PonteGames.Api.csproj" />
+  <Project Path="PonteGames.Tests/PonteGames.Tests.csproj" />
+</Solution>
