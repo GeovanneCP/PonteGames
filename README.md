@@ -247,12 +247,5 @@ Para executar os testes unitários e de integração via linha de comandos:
 
 dotnet test
 
-Declaração de Uso de Ferramentas de IA
-
-Conforme estabelecido pelas diretrizes académicas da Global Solution
-
-declara-se a utilização de ferramentas de Inteligência Artificial generativa (Gemini / Copilot) como suporte no auxílio à escrita e refatoração de código
-
-configurações de filtros de middleware e redação desta documentação técnica. 
-
-Toda a validação arquitetural, testes de conformidade e depuração foram conduzidos e validados pela equipa de desenvolvimento.
+### 🤖 Declaração de Uso de Ferramentas de IA
+Conforme as diretrizes da Global Solution, declara-se o uso de ferramentas de Inteligência Artificial generativa (Gemini / GitHub Copilot) exclusivamente para apoio à estruturação de classes, refatoração de código e elaboração da documentação técnica. Toda a validação da arquitetura, depuração das rotas e execução dos testes foram realizadas pelos integrantes do grupo.
